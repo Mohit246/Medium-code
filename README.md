@@ -1,1 +1,1 @@
-## This repository contains the code linked in the medium blog.
+## This repository contains the code linked in the blog.
