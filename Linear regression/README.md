@@ -1,1 +1,0 @@
-The dataset can also be downloaded from this link - https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
